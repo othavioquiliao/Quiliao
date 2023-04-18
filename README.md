@@ -5,20 +5,9 @@ Estou a procura de uma vaga de desenvolvedor junior que me permita crescer e apr
 
 Atualmente moro em Santa Cruz do Sul :earth_americas:
 
-<div align="center">
-  <a href="https://github.com/Quiliao">
-  <img height="150em" width="47%" src="https://github-readme-stats.vercel.app/api?username=Quiliao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiliao&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Quiliao-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Quiliao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Quiliao-MySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Quiliao-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  
-  
-</div>
   
 ## Meus Hobbies
 
